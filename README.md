@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Application Screenshots" src="./screenshots/mobile.png" />
+    <img alt="Application Screenshots" width="50" height="120" src="./screenshots/mobile.png" />
     <br />
     <h1 align="center"> Proffy - Mobile - React Native</h1>
 </h1>
